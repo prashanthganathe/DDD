@@ -1,0 +1,8 @@
+﻿--Enable-Migrations -ContextTypeName CZ.Infra.Data.Context.DomainContext -Force
+--Enable-Migrations -EnableAutomaticMigrations -Force
+--Add-Migration Initial -Force
+--Update-Database -Verbose
+
+enable-migrations
+add-migration InitialCreate
+

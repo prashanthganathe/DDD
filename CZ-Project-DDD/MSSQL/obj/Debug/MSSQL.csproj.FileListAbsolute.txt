@@ -1,0 +1,4 @@
+E:\Platform\Demo\DDD\CZ-Project-DDD\MSSQL\bin\Debug\MSSQL.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\MSSQL\bin\Debug\MSSQL.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\MSSQL\obj\Debug\MSSQL.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\MSSQL\obj\Debug\MSSQL.pdb

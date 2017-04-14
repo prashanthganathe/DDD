@@ -1,0 +1,13 @@
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\obj\Debug\0.CZ.DomainTests.csprojResolveAssemblyReference.cache
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\CZ.DomainTests.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\CZ.DomainTests.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\Castle.Core.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\CZ.Domain.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\Moq.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\CZ.Domain.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\Castle.Core.xml
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\Moq.xml
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\obj\Debug\CZ.DomainTests.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.DomainTests\obj\Debug\CZ.DomainTests.pdb

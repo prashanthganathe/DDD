@@ -1,0 +1,14 @@
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\RabbitMQHelper.dll.config
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\RabbitMQHelper.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\RabbitMQHelper.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\Jil.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\RabbitMQ.Client.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\Sigil.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\Jil.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\Jil.xml
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\RabbitMQ.Client.xml
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\Sigil.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\bin\Debug\Sigil.xml
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\obj\Debug\RabbitMQHelper.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\obj\Debug\RabbitMQHelper.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\RabbitMQHelper\obj\Debug\RabbitMQHelper.csprojResolveAssemblyReference.cache

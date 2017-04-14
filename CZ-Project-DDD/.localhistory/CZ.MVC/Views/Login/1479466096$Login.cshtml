@@ -1,0 +1,16 @@
+﻿@model LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+
+@using (Html.BeginForm("Login", "Login", new { ReturnUrl = "" }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+ {
+
+ @Html.AntiForgeryToken()
+ @Html.ValidationSummary(true, "")
+
+}

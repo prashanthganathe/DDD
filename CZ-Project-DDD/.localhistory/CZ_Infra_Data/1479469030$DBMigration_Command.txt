@@ -1,0 +1,1 @@
+﻿Enable-Migrations -ContextTypeName CZ.Infra.Data.Context.DomainContext -Force

@@ -1,0 +1,24 @@
+﻿@model LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+
+@using (Html.BeginForm("Login", "Login", new { ReturnUrl = "" }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+ {
+
+ @Html.AntiForgeryToken()
+ @Html.ValidationSummary(true, "")
+
+  @Html.TextBoxFor(m => m.Email, new { @class = "customform-control zeiss-font-Md", @placeholder = "Username" })
+                                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+
+  @Html.PasswordFor(m => m.Password, new { @class = "customform-control", @placeholder = "Password" })
+                                @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+
+<input type="submit" value="Log in" class="customform-control zeiss-font-Md" style="background-color: #141E8C; color: #fff" />
+
+}

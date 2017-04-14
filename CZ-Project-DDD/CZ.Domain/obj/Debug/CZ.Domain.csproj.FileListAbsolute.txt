@@ -1,0 +1,5 @@
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.Domain\bin\Debug\CZ.Domain.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.Domain\bin\Debug\CZ.Domain.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.Domain\obj\Debug\CZ.Domain.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.Domain\obj\Debug\CZ.Domain.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ.Domain\obj\Debug\CZ.Domain.csprojResolveAssemblyReference.cache

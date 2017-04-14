@@ -1,0 +1,12 @@
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\CZ-Application.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\CZ-Application.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\CZ.Domain.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\CZ.Domain.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\obj\Debug\CZ.Application.csprojResolveAssemblyReference.cache
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\obj\Debug\CZ-Application.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\obj\Debug\CZ-Application.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\Config\ConnectionString.config
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\CZ.Infra.Data.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\EntityFramework.dll
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\CZ.Infra.Data.pdb
+E:\Platform\Demo\DDD\CZ-Project-DDD\CZ-Application\bin\Debug\EntityFramework.xml
